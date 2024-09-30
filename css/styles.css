@@ -1,0 +1,63 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.list {
+  list-style: none;
+}
+
+a {
+    font-style: normal;
+}
+
+/* ================HEADER=============== */
+.header {
+}
+.header-navigation {
+}
+.header-logo {
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;   
+}
+
+.header-logo span {
+color: #4D5AE5;
+}
+
+.header-menu {
+
+}
+
+.header-menu-item {
+}
+
+.header-menu-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+
+.header-address {
+}
+.address-list {
+}
+.address-item {
+}
+
+.address-link {
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
